@@ -5,4 +5,4 @@ results:
 
 
 gdscript(red), VisualBasic(green), C#(blue):    
-![Pic1](GodotVisualBasic_example_benchmark_mandelbrot/mandelbrotsmall.jpg)
+![Pic1](mandelbrotsmall.jpg)
