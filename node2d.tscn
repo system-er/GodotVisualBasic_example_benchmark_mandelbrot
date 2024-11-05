@@ -1,0 +1,14 @@
+[gd_scene load_steps=4 format=3 uid="uid://de2gg0j5ahtji"]
+
+[ext_resource type="Script" path="res://node2d.cs" id="1_xkqyt"]
+[ext_resource type="Script" path="res://node_2d.gd" id="2_4o8g0"]
+[ext_resource type="Script" path="res://nodecsharp.cs" id="3_2cghc"]
+
+[node name="Node_VisualBasic" type="Node2D"]
+script = ExtResource("1_xkqyt")
+
+[node name="Node_gdscript" type="Node2D" parent="."]
+script = ExtResource("2_4o8g0")
+
+[node name="Node_csharp" type="Node2D" parent="."]
+script = ExtResource("3_2cghc")

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MdXauxXwQoMbVyvdrDygL50h4o5TPZLpkTaQs3nKp4w0F6UdNAWtfEVIp3qAhe1AQgsGKxwmElJPsn9jaiuRLQ==",
+  "success": true,
+  "projectFilePath": "S:\\prog\\projects\\godot\\vbtest\\vblibrary\\vblibrary.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\godotsharp\\4.3.0\\godotsharp.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

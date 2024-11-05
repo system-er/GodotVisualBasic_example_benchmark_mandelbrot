@@ -1,0 +1,12 @@
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\bin\Debug\net6.0\vblibrary.deps.json
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\bin\Debug\net6.0\vblibrary.dll
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\bin\Debug\net6.0\vblibrary.pdb
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\obj\Debug\net6.0\vblibrary.vbproj.AssemblyReference.cache
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\obj\Debug\net6.0\vblibrary.GeneratedMSBuildEditorConfig.editorconfig
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\obj\Debug\net6.0\vblibrary.AssemblyInfoInputs.cache
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\obj\Debug\net6.0\vblibrary.AssemblyInfo.vb
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\obj\Debug\net6.0\vblibrary.vbproj.CoreCompileInputs.cache
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\obj\Debug\net6.0\vblibrary.dll
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\obj\Debug\net6.0\refint\vblibrary.dll
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\obj\Debug\net6.0\vblibrary.pdb
+S:\PROG\PROJECTS\GODOT\VBTEST\vblibrary\obj\Debug\net6.0\ref\vblibrary.dll
