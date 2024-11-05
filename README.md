@@ -2,9 +2,9 @@
 benchmark painting a mandelbrot with gdscript, VisualBasic and C#.
 
 results on my old PC:    
-- VisualBasic - 153 ms    
-- C# - 149 ms    
-- gdscript - 4597 ms    
+- VisualBasic - 149 ms    
+- C# - 134 ms    
+- gdscript - 4822 ms    
 so VisualBasic is as fast as C# only the tunneling through C# cost us some milliseconds - but 30times faster than gdscript! And its compiled and you can leave your sources safe.    
 
 
