@@ -1,0 +1,11 @@
+S:\prog\projects\godot\vbtest\fsharplibrary\bin\Debug\net6.0\fsharplibrary.deps.json
+S:\prog\projects\godot\vbtest\fsharplibrary\bin\Debug\net6.0\fsharplibrary.dll
+S:\prog\projects\godot\vbtest\fsharplibrary\bin\Debug\net6.0\fsharplibrary.pdb
+S:\prog\projects\godot\vbtest\fsharplibrary\bin\Debug\net6.0\fsharplibrary.xml
+S:\prog\projects\godot\vbtest\fsharplibrary\obj\Debug\net6.0\fsharplibrary.fsproj.AssemblyReference.cache
+S:\prog\projects\godot\vbtest\fsharplibrary\obj\Debug\net6.0\fsharplibrary.AssemblyInfoInputs.cache
+S:\prog\projects\godot\vbtest\fsharplibrary\obj\Debug\net6.0\fsharplibrary.AssemblyInfo.fs
+S:\prog\projects\godot\vbtest\fsharplibrary\obj\Debug\net6.0\fsharplibrary.fsproj.CoreCompileInputs.cache
+S:\prog\projects\godot\vbtest\fsharplibrary\obj\Debug\net6.0\fsharplibrary.dll
+S:\prog\projects\godot\vbtest\fsharplibrary\obj\Debug\net6.0\fsharplibrary.xml
+S:\prog\projects\godot\vbtest\fsharplibrary\obj\Debug\net6.0\fsharplibrary.pdb

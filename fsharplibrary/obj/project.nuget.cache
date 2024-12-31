@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ND+E1EvkKUb/AduccYDqD3smnGRsK1cBexsnE2o81S4+ekT9WorZDq0Ww4FVeWJcQnDh3c8ULM7bDsFYZexQjw==",
+  "success": true,
+  "projectFilePath": "S:\\prog\\projects\\godot\\vbtest\\fsharplibrary\\fsharplibrary.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\godotsharp\\4.3.0\\godotsharp.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

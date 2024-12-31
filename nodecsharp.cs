@@ -59,7 +59,7 @@ public partial class nodecsharp : Node2D
                     c = colors[(int)(Mathf.Round(8.0f * (n - 10.0f) / (l - 10.0f)))];
                     c.B = 255;
                 }
-                DrawRect(new Rect2(new Vector2(i + 1000, j), new Vector2(1, 1)), c, true, -1.0f, false);
+                DrawRect(new Rect2(new Vector2(i, j+500), new Vector2(1, 1)), c, true, -1.0f, false);
             }
         }
 
