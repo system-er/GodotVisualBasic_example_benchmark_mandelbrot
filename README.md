@@ -2,6 +2,8 @@
 benchmark painting a mandelbrot with gdscript, VisualBasic, C# and F#.     
 so VisualBasic is as fast as F# and C# only the tunneling through C# cost us some milliseconds -    
 but the three are 30times faster than gdscript.    
+
+tested with Godot_v4.3-stable_mono_win64    
   
     
 
